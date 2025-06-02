@@ -1,36 +1,36 @@
 
-
+<html>
 <title>Black Hole</title>
 <body>
     <h1>What is a Black Hole</h1>
 
-    A black hole is a massive, compact astronomical object so dense that,
-         Its gravity prevents anything from escaping, even light.
+    <p>A black hole is a massive, compact astronomical object so dense that,
+         its gravity prevents anything from escaping, even light.
         Black holes have two parts. There is the event horizon, which you can think of as the surface, 
-        Though it's simply the point where the gravity gets too strong for anything to escape.
-         And then, at the center, is the singularity.
+        though it's simply the point where the gravity gets too strong for anything to escape.
+         And then, at the center, is the singularity.<br>
          Details of a black hole’s structure are calculated from Albert Einstein’s general theory of relativity: 
          a “singularity” of zero volume and infinite density pulls in all matter and energy that comes within an event horizon, 
          defined by the Schwarzschild radius, around it.
           Black holes cannot be observed directly because they are small and emit no light. However, their enormous gravitational fields affect nearby matter, 
-          which is drawn in and emits X-rays as it collides at high speed outside the event horizon.
+          which is drawn in and emits X rays as it collides at high speed outside the event horizon.
         Some black holes may have nonstellar origins. Astronomers speculate that supermassive black holes at the centres of quasars and 
-        Many galaxies are the source of energetic activity that is observed.
-         Stephen W. Hawking theorized the creation of numerous tiny black holes, possibly no more massive than an asteroid, during the Big Bang. 
+        many galaxies are the source of energetic activity that is observed.
+         Stephen W. Hawking theorized the creation of numerous tiny black holes, possibly no more massive than an asteroid, during the big bang. 
          These primordial “mini black holes” lose mass over time and disappear as a result of Hawking radiation. 
-        Although black holes remain theoretical, the case for their existence is supported by many observations of phenomena that match their predicted effects.
+        Although black holes remain theoretical, the case for their existence is supported by many observations of phenomena that match their predicted effects.</p>
     <h2>Anatomy of Black Holes</h2>
     
-    <p><sr>Event Horizon</sr>
-        This is what makes a black hole black. We can think of the event horizon as the surface of the black hole.
+    <br><p><sr>Event Horizon</sr></br>
+        This is what makes a black hole black. We can think of the event horizon as the black hole’s surface.
          Inside this boundary, the velocity needed to escape the black hole exceeds the speed of light, which is as fast as anything can go.
           So whatever passes into the event horizon is doomed to stay inside it – even light.
-           Because light can’t escape, black holes neither emit nor reflect it, and nothing about what happens within them can reach an outside observer.
-         But astronomers can observe black holes thanks to light emitted by surrounding matter that hasn’t yet dipped into the event horizon.
+           Because light can’t escape, black holes themselves neither emit nor reflect it, and nothing about what happens within them can reach an outside observer.
+         But astronomers can observe black holes thanks to light emitted by surrounding matter that hasn’t yet dipped into the event horizon.<br>
 
-         <sr>Accretion Disk</sr>
+         <br><sr>Accretion Disk</sr></br>
 
-The primary light source emanating from a black hole is a structure known as an accretion disk. Black holes grow by consuming matter, a process scientists call accretion, and by merging with other black holes.
+The main light source from a black hole is a structure called an accretion disk. Black holes grow by consuming matter, a process scientists call accretion, and by merging with other black holes.
  A stellar-mass black hole paired with a star may pull gas from it, and a supermassive black hole does the same from stars that stray too close. The gas settles into a hot, bright, rapidly spinning disk.
   Matter gradually works its way from the outer part of the disk to its inner edge, where it falls into the event horizon. Isolated black holes that have consumed the matter surrounding them do not possess 
   an accretion disk and can be very difficult to find and study.<br>
