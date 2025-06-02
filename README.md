@@ -8,7 +8,7 @@
          Its gravity prevents anything from escaping, even light.
         Black holes have two parts. There is the event horizon, which you can think of as the surface, 
         Though it's simply the point where the gravity gets too strong for anything to escape.
-         And then, at the center, is the singularity.<br>
+         And then, at the center, is the singularity.
          Details of a black hole’s structure are calculated from Albert Einstein’s general theory of relativity: 
          a “singularity” of zero volume and infinite density pulls in all matter and energy that comes within an event horizon, 
          defined by the Schwarzschild radius, around it.
